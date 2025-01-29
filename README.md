@@ -10,17 +10,20 @@ Day 1: Business Planning
 	• Established business goals, problems, and solutions.
 	• Identified the target audience and product offerings.
 	• Designed the data schema to structure product information.
+ 
 Day 2: Technical Planning
 	• Defined front-end and back-end requirements.
 	• Outlined the system architecture and workflows.
 	• Chose Sanity as the backend CMS.
 	• Identified potential third-party integrations (ShipEngine for shipping, Stripe for payments).
 	• Currently using only the provided API for product listings.
+ 
 Day 3: API Integration & Data Management
 	• Integrated the API using Axios.
 	• Fetched product data and structured it within the schema.
 	• Migrated API data into Sanity.
 	• Rendered fetched data in reusable front-end components.
+ 
 Day 4: Front-End Development
 	• Built core UI components for: 
 		○ Product Listing
@@ -28,6 +31,7 @@ Day 4: Front-End Development
 		○ Cart & Add-to-Cart Notifications
 		○ Checkout Process
 		○ Wishlist Management
+  
 Day 5: Testing & Optimization
 	• Conducted functional testing (navigation, animations, responsiveness).
 	• Verified API functionality using Thunder Client.
@@ -37,6 +41,7 @@ Day 5: Testing & Optimization
 		○ Evaluated website speed using Lighthouse.
 		○ Checked device compatibility across multiple screen sizes.
 		○ Monitored performance metrics.
+  
 Day 6: Deployment
 	• Successfully deployed the project.
 
